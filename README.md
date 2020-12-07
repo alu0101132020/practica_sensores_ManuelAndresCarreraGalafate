@@ -2,6 +2,7 @@
 
 # Práctica 6. Sensores en Unity - Interfaces Inteligentes
 
+[Repositorio de la práctica](https://github.com/alu0101132020/practica_sensores_ManuelAndresCarreraGalafate)
 
 ## Descripción
 En esta práctica crearemos una serie de Scripts que nos permitirán utilizar los sensores del teléfono para interactuar con escenas.
